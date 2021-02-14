@@ -1,0 +1,37 @@
+body {
+	position: static;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+	width: 31vw;
+	height: 97vh;
+	border: 1px solid transparent; 
+    border-radius: 15px;
+    background-color: coral;  
+    box-shadow: 0 0 10px rgba(0,0,0,5);	
+}
+
+.rnb {
+	width: 10vw;
+	height: 19vh;
+	border: 1px solid transparent;
+}
+
+.txt{
+	width: 20vw;
+	height: 19vh;
+	border: 1px solid transparent;
+	font-size: 200%;
+	color: blue;
+}
+
+.lng {
+	width: 10vw;
+	height: 11vh;
+	border: 1px solid transparent;
+}
+
+
